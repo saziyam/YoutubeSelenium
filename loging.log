@@ -1,0 +1,84 @@
+2022-11-29 14:18:47 INFO  LogCapture:16 - Login succesfully
+2022-11-29 14:47:30 INFO  LogCapture:16 - Login succesfully
+2022-11-30 11:52:12 INFO  LogCapture:16 - Login succesfully
+2022-11-30 11:53:37 INFO  LogCapture:16 - Login succesfully
+2022-11-30 12:13:56 INFO  LogCapture:16 - Login succesfully
+2022-12-05 21:49:47 INFO  LogCapture:16 - Login succesfully
+2022-12-05 22:58:10 INFO  LogCapture:16 - Login succesfully
+2022-12-06 08:00:19 INFO  LogCapture:16 - Login succesfully
+2022-12-06 10:36:48 INFO  LogCapture:16 - Login succesfully
+2022-12-06 10:39:07 INFO  LogCapture:16 - Login succesfully
+2022-12-06 10:48:18 INFO  LogCapture:16 - Login succesfully
+2022-12-06 16:39:38 INFO  LogCapture:16 - Login succesfully
+2022-12-06 16:44:37 INFO  LogCapture:16 - Login succesfully
+2022-12-06 16:47:15 INFO  LogCapture:16 - Login succesfully
+2022-12-06 16:48:21 INFO  LogCapture:16 - Login succesfully
+2022-12-06 16:48:37 INFO  LogCapture:16 - Login succesfully
+2022-12-06 17:01:23 INFO  LogCapture:16 - Login succesfully
+2022-12-06 17:04:15 INFO  LogCapture:16 - Login succesfully
+2022-12-06 17:07:13 INFO  LogCapture:16 - Login succesfully
+2022-12-09 12:46:39 INFO  LogCapture:19 - Login succesfully
+2022-12-09 12:51:16 INFO  LogCapture:19 - Login succesfully
+2022-12-09 12:54:45 INFO  LogCapture:19 - Login succesfully
+2022-12-09 12:59:43 INFO  LogCapture:19 - Login succesfully
+2022-12-09 15:11:21 INFO  LogCapture:19 - Login succesfully
+2022-12-09 15:19:38 INFO  LogCapture:19 - Login succesfully
+2022-12-09 15:22:34 INFO  LogCapture:19 - Login succesfully
+2022-12-09 16:04:21 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 16:04:37 INFO  LogCapture:19 - Login succesfully
+2022-12-09 16:12:11 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 16:12:28 INFO  LogCapture:19 - Login succesfully
+2022-12-09 16:12:49 INFO  LogCapture:19 -  Click on Trending succesfully
+2022-12-09 16:12:51 INFO  LogCapture:19 - Navigate to Logout using Profile 
+2022-12-09 16:13:59 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 16:14:17 INFO  LogCapture:19 - Login succesfully
+2022-12-09 16:14:37 INFO  LogCapture:19 -  Click on Trending succesfully
+2022-12-09 16:14:38 INFO  LogCapture:19 - Navigate to Logout using Profile 
+2022-12-09 16:14:52 INFO  LogCapture:19 - Logout Succefully
+2022-12-09 16:21:09 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 16:21:26 INFO  LogCapture:19 - Login succesfully
+2022-12-09 16:21:47 INFO  LogCapture:19 -  Click on Trending succesfully
+2022-12-09 16:21:48 INFO  LogCapture:19 - Navigate to Logout using Profile 
+2022-12-09 16:22:01 INFO  LogCapture:19 - Logout Succefully
+2022-12-09 16:26:11 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 16:26:30 INFO  LogCapture:19 - Login succesfully
+2022-12-09 16:35:56 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 16:36:12 INFO  LogCapture:19 - Login succesfully
+2022-12-09 16:36:31 INFO  LogCapture:19 -  Click on Trending succesfully
+2022-12-09 16:36:35 INFO  LogCapture:19 - Navigate to Logout using Profile 
+2022-12-09 16:36:45 INFO  LogCapture:19 - Logout Succefully
+2022-12-09 16:46:03 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 16:46:19 INFO  LogCapture:19 - Login succesfully
+2022-12-09 16:46:37 INFO  LogCapture:19 -  Click on Trending succesfully
+2022-12-09 16:46:39 INFO  LogCapture:19 - Navigate to Logout using Profile 
+2022-12-09 16:46:53 INFO  LogCapture:19 - Logout Succefully
+2022-12-09 16:49:18 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 16:49:35 INFO  LogCapture:19 - Login succesfully
+2022-12-09 16:49:54 INFO  LogCapture:19 -  Click on Trending succesfully
+2022-12-09 16:49:56 INFO  LogCapture:19 - Navigate to Logout using Profile 
+2022-12-09 16:50:10 INFO  LogCapture:19 - Logout Succefully
+2022-12-09 16:52:15 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 16:52:33 INFO  LogCapture:19 - Login succesfully
+2022-12-09 16:52:53 INFO  LogCapture:19 -  Click on Trending succesfully
+2022-12-09 16:52:54 INFO  LogCapture:19 - Navigate to Logout using Profile 
+2022-12-09 16:53:12 INFO  LogCapture:19 - Logout Succefully
+2022-12-09 16:54:18 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 16:54:34 INFO  LogCapture:19 - Login succesfully
+2022-12-09 16:54:54 INFO  LogCapture:19 -  Click on Trending succesfully
+2022-12-09 16:54:55 INFO  LogCapture:19 - Navigate to Logout using Profile 
+2022-12-09 16:55:08 INFO  LogCapture:19 - Logout Succefully
+2022-12-09 17:00:23 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 17:00:40 INFO  LogCapture:19 - Login succesfully
+2022-12-09 17:01:00 INFO  LogCapture:19 -  Click on Trending succesfully
+2022-12-09 17:01:01 INFO  LogCapture:19 - Navigate to Logout using Profile 
+2022-12-09 17:01:15 INFO  LogCapture:19 - Logout Succefully
+2022-12-09 17:07:02 INFO  LogCapture:19 -  validate title is succesfully
+2022-12-09 17:07:20 INFO  LogCapture:19 - Login succesfully
+2022-12-09 17:07:40 INFO  LogCapture:19 -  Click on Trending succesfully
+2022-12-09 17:07:41 INFO  LogCapture:19 - Navigate to Logout using Profile 
+2022-12-09 17:07:53 INFO  LogCapture:19 - Logout Succefully
+2023-01-11 10:52:46 INFO  LogCapture:19 -  validate title is succesfully
+2023-01-11 10:53:00 INFO  LogCapture:19 - Login succesfully
+2023-01-11 10:53:56 INFO  LogCapture:19 -  Click on Trending succesfully
+2023-01-11 10:53:57 INFO  LogCapture:19 - Navigate to Logout using Profile 
+2023-01-11 10:54:12 INFO  LogCapture:19 - Logout Succefully

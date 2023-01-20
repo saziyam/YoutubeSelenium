@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log4j:configuration debug="flase">
+    <appender type="Console" name="STDOUT">
+      <Layout type="PatternLayout" pattern="%m MDC%X%n"/>
+    </appender>
+	<appender type="Console" name="STDOUT" class="org.apache.log4j.FileAppender">
+	<param name="Threshold" value="INFO"/>
+	<param name="File" value="Logfile.log"/>
+		<layout class="org.apache.Log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d %-5p [%c{1} %m %n"/>
+		</layout>
+	</appender>
+
+    <logger name="org.apache.logging.log4j.test1" level="debug" additivity="false">
+     <root level="INFO">
+      <appenderRef ref="STDOUT"/>
+    </root>
+    </logger>
+</log4j:configuration>
+
+
+
+
